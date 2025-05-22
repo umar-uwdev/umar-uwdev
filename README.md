@@ -12,14 +12,14 @@ My key strengths include:
 
 
 ### Technical Skills:
-- Languages: C#, JavaScript, TypeScript, SQL
-- Web Frameworks: ASP.NET MVC, ASP.NET Core, Angular, React Native, Blazor
-- Mobile Development: Xamarin, .NET MAUI, Ionic
-- Databases: SQL Server, PostgreSQL, Azure Cosmos DB, Entity Framework, Dapper
-- Cloud Platforms: Microsoft Azure, AWS, GCP
-- DevOps & CI/CD: Git, Azure DevOps, CI/CD Pipelines
-- Tools & Services: JIRA, Slack, Teams, Tizen Studio, Visual Studio, VS Code
-- Architectural Patterns: Microservices, Event-Driven Systems, Multi-threading, REST APIs, JWT
+- **Languages:** C#, JavaScript, TypeScript, SQL
+- **Web Frameworks:** ASP.NET MVC, ASP.NET Core, Angular, React Native, Blazor
+- **Mobile Development:** Xamarin, .NET MAUI, Ionic
+- **Databases:** SQL Server, PostgreSQL, Azure Cosmos DB, Entity Framework, Dapper
+- **Cloud Platforms:** Microsoft Azure, AWS, GCP
+- **DevOps & CI/CD:** Git, Azure DevOps, CI/CD Pipelines
+- **Tools & Services:** JIRA, Slack, Teams, Tizen Studio, Visual Studio, VS Code
+- **Architectural Patterns:** Microservices, Event-Driven Systems, Multi-threading, REST APIs, JWT
 ### Soft Skills:
 - Team Leadership
 - Agile Methodology
